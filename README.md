@@ -19,12 +19,31 @@
     |-----------|--------------------|
     |HTML |[HTML](https://es.wikipedia.org/wiki/HTML "HTML")|
     |XML |[XML](https://es.wikipedia.org/wiki/Extensible_Markup_Language "XML")|
-    |Markdown |[tMarkdown](https://es.wikipedia.org/wiki/Markdown "Markdown")|
+    |Markdown |[Markdown](https://es.wikipedia.org/wiki/Markdown "Markdown")|
     |YAML |[YAML](https://es.wikipedia.org/wiki/YAML "YAML")|
 
 
    
 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
+
+    (HyperText Markup Language) es el lenguaje estándar para crear y estructurar páginas web. Utiliza etiquetas para organizar contenido, como textos, imágenes y enlaces.
+
+    ```
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+        
+    ```
+    Figura 1: Estructura de código HTML
    
 5. ¿Qué es CSS?
    
