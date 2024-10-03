@@ -12,7 +12,7 @@
 4. ¿Qué es HTML ? ¿Sabes cómo se estructura?
    
 5. ¿Qué es CSS?
-   Es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva.
+    Es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva.
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.:
 * __Solicitud:__ El usuario ingresa una URL en el navegador.
 * __Resolución DNS:__ El navegador convierte el nombre del dominio en una dirección IP del servidor que aloja la página.
