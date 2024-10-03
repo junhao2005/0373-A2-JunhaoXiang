@@ -55,3 +55,7 @@
 * __Conexión al servidor:__ El navegador envía una solicitud HTTP/HTTPS al servidor web correspondiente.
 * __Respuesta del servidor:__ El servidor envía los archivos de la página (HTML, CSS, JavaScript, imágenes, etc.) al navegador.
 * __Renderización:__ El navegador interpreta el código recibido y construye la página para mostrarla visualmente al usuario.
+
+![Esquema de peticiones HTML](Esquema%20de%20peticiones%20HTML.png "Esquema de peticiones HTML")
+
+Figura 2: Esquema de peticiones HTML
